@@ -133,7 +133,7 @@ function displayWeatherCondition(response) {
       "Wind: " + Math.round(response.data.wind.speed) + " km/h";
     let banner = document.querySelector("#weather-forecast");
     banner.innerHTML =
-      "<em><small><q>When witches go riding, and black cats are seen, <br/>the moon laughs and whispers, <br/>tis near Halloween</q></small></em>";
+      "<em><small><q>When witches go riding, <br/>and black cats are seen, <br/>the moon laughs and whispers, <br/>tis near Halloween</q></small></em>";
   }
 
   function displayFahrenheit(event) {
