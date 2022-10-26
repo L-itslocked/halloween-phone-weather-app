@@ -43,6 +43,9 @@ a {
 a:hover {
   color: #881ee4;
 }
+q {
+  font-family: lora;
+}
 
 .container {
   margin: 180px auto;
