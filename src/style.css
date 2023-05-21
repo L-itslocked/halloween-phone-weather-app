@@ -131,6 +131,10 @@ q {
   background-color: #a18270;
   border-radius: 12px;
 }
+.socials {
+  text-align: center;
+  padding-bottom: 5px;
+}
 #fahrenheit,
 #celsius {
   text-decoration: none;
